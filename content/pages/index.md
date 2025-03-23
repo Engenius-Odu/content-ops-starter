@@ -19,7 +19,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: images/WhatsApp Video 2025-03-23 at 11.48.23_0ffff7b7.mp4
       autoplay: true
       loop: true
       muted: true
