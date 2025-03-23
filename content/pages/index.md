@@ -10,7 +10,9 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: 'Smart, Luxury, Exclusive Diplomatic & Executive Residences'
+    subtitle: >-
+      Smart, Luxury, Exclusive Diplomatic & Executive Residences in Asokoro
+      Abuja.
     text: >
       Welcome to Emsworth Mansionette, an exclusive collection of luxury smart
       duplexes in the
