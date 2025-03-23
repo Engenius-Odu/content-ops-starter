@@ -89,7 +89,7 @@ sections:
       - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/WhatsApp Image 2025-03-23 at 14.47.41_bf7235a5.jpg
         altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
