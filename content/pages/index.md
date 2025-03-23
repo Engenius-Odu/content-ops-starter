@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Emsworth Mansionette
-      color: text-dark
+      color: text-neutral
       styles:
         self:
           textAlign: left
