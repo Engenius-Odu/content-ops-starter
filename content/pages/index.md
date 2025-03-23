@@ -77,7 +77,7 @@ sections:
     actions: []
     media:
       url: /images/WhatsApp Image 2025-03-23 at 14.48.06_b7de56d2.jpg
-      altText: Unblock your team boost your time to production preview
+      altText: location
       elementId: ''
       type: ImageBlock
     elementId: ''
