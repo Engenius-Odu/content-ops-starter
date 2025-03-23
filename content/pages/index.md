@@ -11,11 +11,17 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Exclusive Diplomatic & Executive Residences
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Welcome to Emsworth Mansionette, an exclusive collection of luxury smart
+      duplexes in the
+
+      prestigious Asokoro District of Abuja. Designed for embassies, diplomats,
+      and executives,
+
+      Emsworth Mansionette offers state-of-the-art security, modern automation,
+      and superior
+
+      comfort.
     actions: []
     media:
       title: Title of the video
