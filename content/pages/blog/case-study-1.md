@@ -2,7 +2,7 @@
 title: ''
 slug: case-study-1
 date: ''
-excerpt: ''
+excerpt: '✔ Fully Detached Duplex with Private Compound '
 featuredImage:
   url: /images/WhatsApp Image 2025-03-23 at 14.47.41_bf7235a5.jpg
   altText: Case study 1
