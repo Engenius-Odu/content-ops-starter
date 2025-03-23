@@ -9,9 +9,16 @@ sections:
       type: TitleBlock
     subtitle: Exclusive Diplomatic & Executive Residences
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Welcome to Emsworth Mansionette, an exclusive collection of luxury smart
+      duplexes in the
+
+      prestigious Asokoro District of Abuja. Designed for embassies, diplomats,
+      and executives,
+
+      Emsworth Mansionette offers state-of-the-art security, modern automation,
+      and superior
+
+      comfort.
     actions:
       - label: Get started
         altText: ''
