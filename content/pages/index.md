@@ -10,7 +10,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Exclusive Diplomatic & Executive Residences
+    subtitle: 'Smart, Luxury, Exclusive Diplomatic & Executive Residences'
     text: >
       Welcome to Emsworth Mansionette, an exclusive collection of luxury smart
       duplexes in the
