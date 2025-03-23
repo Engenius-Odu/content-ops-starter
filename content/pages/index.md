@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Emsworth Mansionette
+      text: 'Emsworth Mansionette '
       color: text-neutral
       styles:
         self:
