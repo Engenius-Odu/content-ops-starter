@@ -66,7 +66,7 @@ bottomSections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-isFeatured: true
+isFeatured: false
 colors: bg-neutral-fg-dark
 styles:
   self:
