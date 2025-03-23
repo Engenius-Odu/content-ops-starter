@@ -58,7 +58,11 @@ sections:
       text: Emsworth Mansionette
       color: text-dark
       type: TitleBlock
-    subtitle: Exclusive Diplomatic & Executive Residences
+    subtitle: >-
+      Welcome to an exclusive collection of fully detached smart duplexes in the
+      prestigious Asokoro District. Designed for high-profile individuals,
+      embassies, and executives, these residences offer the perfect blend of
+      luxury, security, and smart living.
     text: >
       Welcome to Emsworth Mansionette, an exclusive collection of luxury smart
       duplexes in the
