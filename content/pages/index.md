@@ -4,18 +4,26 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Generic section with a video
-      color: text-dark
+      text: 'Emsworth Mansionette '
+      color: text-neutral
       styles:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: >-
+      Smart, Luxury, Exclusive Diplomatic & Executive Residences in Asokoro
+      Abuja.
+    text: >
+      Welcome to Emsworth Mansionette, an exclusive collection of luxury smart
+      duplexes in the
+
+      prestigious Asokoro District of Abuja. Designed for embassies, diplomats,
+      and executives,
+
+      Emsworth Mansionette offers state-of-the-art security, modern automation,
+      and superior
+
+      comfort.
     actions: []
     media:
       title: Title of the video
@@ -50,7 +58,11 @@ sections:
       text: Emsworth Mansionette
       color: text-dark
       type: TitleBlock
-    subtitle: Exclusive Diplomatic & Executive Residences
+    subtitle: >-
+      Welcome to an exclusive collection of fully detached smart duplexes in the
+      prestigious Asokoro District. Designed for high-profile individuals,
+      embassies, and executives, these residences offer the perfect blend of
+      luxury, security, and smart living.
     text: >
       Welcome to Emsworth Mansionette, an exclusive collection of luxury smart
       duplexes in the
@@ -207,13 +219,6 @@ sections:
         style: primary
         elementId: ''
         type: Button
-    badge:
-      label: This is a badge
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
