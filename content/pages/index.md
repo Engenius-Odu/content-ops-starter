@@ -55,7 +55,7 @@ sections:
         textAlign: left
   - type: GenericSection
     title:
-      text: Emsworth Mansionette
+      text: ''
       color: text-dark
       type: TitleBlock
     subtitle: >-
