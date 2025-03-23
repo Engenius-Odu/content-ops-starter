@@ -22,7 +22,7 @@ sections:
       url: images/WhatsApp Video 2025-03-23 at 11.48.23_0ffff7b7.mp4
       autoplay: true
       loop: true
-      muted: true
+      muted: false
       controls: false
       aspectRatio: '16:9'
       styles:
