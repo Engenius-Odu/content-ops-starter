@@ -2,11 +2,7 @@
 title: ''
 slug: case-study-1
 date: ''
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+excerpt: ''
 featuredImage:
   url: /images/WhatsApp Image 2025-03-23 at 14.47.41_bf7235a5.jpg
   altText: Case study 1
