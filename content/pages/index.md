@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Where vision meets value.
+      text: Emsworth Mansionette
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
