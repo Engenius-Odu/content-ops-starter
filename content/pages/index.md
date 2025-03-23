@@ -29,15 +29,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       url: /images/WhatsApp Image 2025-03-23 at 14.47.42_61f4407c.jpg
       altText: Unblock your team boost your time to production preview
