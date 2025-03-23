@@ -4,40 +4,6 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Emsworth Mansionette
-      color: text-dark
-      type: TitleBlock
-    subtitle: Exclusive Diplomatic & Executive Residences
-    text: >
-      Welcome to Emsworth Mansionette, an exclusive collection of luxury smart
-      duplexes in the
-
-      prestigious Asokoro District of Abuja. Designed for embassies, diplomats,
-      and executives,
-
-      Emsworth Mansionette offers state-of-the-art security, modern automation,
-      and superior
-
-      comfort.
-    actions: []
-    media:
-      url: /images/WhatsApp Image 2025-03-23 at 14.47.42_61f4407c.jpg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-  - type: GenericSection
-    title:
       text: Generic section with a video
       color: text-dark
       styles:
@@ -79,6 +45,40 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+  - type: GenericSection
+    title:
+      text: Emsworth Mansionette
+      color: text-dark
+      type: TitleBlock
+    subtitle: Exclusive Diplomatic & Executive Residences
+    text: >
+      Welcome to Emsworth Mansionette, an exclusive collection of luxury smart
+      duplexes in the
+
+      prestigious Asokoro District of Abuja. Designed for embassies, diplomats,
+      and executives,
+
+      Emsworth Mansionette offers state-of-the-art security, modern automation,
+      and superior
+
+      comfort.
+    actions: []
+    media:
+      url: /images/WhatsApp Image 2025-03-23 at 14.47.42_61f4407c.jpg
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
