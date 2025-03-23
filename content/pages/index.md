@@ -63,17 +63,7 @@ sections:
       prestigious Asokoro District. Designed for high-profile individuals,
       embassies, and executives, these residences offer the perfect blend of
       luxury, security, and smart living.
-    text: >
-      Welcome to Emsworth Mansionette, an exclusive collection of luxury smart
-      duplexes in the
-
-      prestigious Asokoro District of Abuja. Designed for embassies, diplomats,
-      and executives,
-
-      Emsworth Mansionette offers state-of-the-art security, modern automation,
-      and superior
-
-      comfort.
+    text: ''
     actions: []
     media:
       url: /images/WhatsApp Image 2025-03-23 at 14.48.06_b7de56d2.jpg
