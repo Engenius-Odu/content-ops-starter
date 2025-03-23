@@ -92,11 +92,11 @@ sections:
       - url: /images/WhatsApp Image 2025-03-23 at 14.47.41_bf7235a5.jpg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
       - url: /images/rangle-logo.svg
         altText: Rangle logo
+        type: ImageBlock
+      - url: /images/sanity-logo.svg
+        altText: Sanity logo
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
