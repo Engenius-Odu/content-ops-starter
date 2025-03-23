@@ -83,9 +83,6 @@ sections:
           - pr-16
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo
         type: ImageBlock
