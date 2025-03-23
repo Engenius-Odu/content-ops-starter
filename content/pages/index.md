@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Emsworth Mansionette
       color: text-dark
       styles:
         self:
