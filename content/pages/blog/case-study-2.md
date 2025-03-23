@@ -1,7 +1,7 @@
 ---
 title: Case study 2
 slug: case-study-2
-date: '2022-02-16'
+date: ''
 excerpt: ''
 featuredImage:
   url: /images/WhatsApp Image 2025-03-23 at 14.47.42_61f4407c.jpg
