@@ -246,7 +246,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: /images/WhatsApp%20Video%202025-03-23%20at%2011.48.23_0ffff7b7.mp4
       controls: false
       aspectRatio: '16:9'
       styles:
