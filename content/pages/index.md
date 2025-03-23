@@ -92,7 +92,7 @@ sections:
       - url: /images/WhatsApp Image 2025-03-23 at 14.47.41_bf7235a5.jpg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/rangle-logo.svg
+      - url: /images/WhatsApp Image 2025-03-23 at 14.47.41_cd7ee849.jpg
         altText: Rangle logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
